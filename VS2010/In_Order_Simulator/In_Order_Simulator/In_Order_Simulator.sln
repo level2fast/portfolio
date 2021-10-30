@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LC_Assembly_Language_Assembler", "LC_Assembly_Language_Assembler\LC_Assembly_Language_Assembler.vcxproj", "{9CDF962F-D3D2-45FA-8BCA-F28D9DE86403}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "In_Order_Pipeline_Simulator", "In_Order_Pipeline_Simulator\In_Order_Pipeline_Simulator.vcxproj", "{16EAC906-4662-47BF-8A4E-56D2190108B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CDF962F-D3D2-45FA-8BCA-F28D9DE86403}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9CDF962F-D3D2-45FA-8BCA-F28D9DE86403}.Debug|Win32.Build.0 = Debug|Win32
+		{9CDF962F-D3D2-45FA-8BCA-F28D9DE86403}.Release|Win32.ActiveCfg = Release|Win32
+		{9CDF962F-D3D2-45FA-8BCA-F28D9DE86403}.Release|Win32.Build.0 = Release|Win32
+		{16EAC906-4662-47BF-8A4E-56D2190108B8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{16EAC906-4662-47BF-8A4E-56D2190108B8}.Debug|Win32.Build.0 = Debug|Win32
+		{16EAC906-4662-47BF-8A4E-56D2190108B8}.Release|Win32.ActiveCfg = Release|Win32
+		{16EAC906-4662-47BF-8A4E-56D2190108B8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
