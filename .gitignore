@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Folders
+/Unity/AR_VR_Hello_World/Library/
+/Unity/AR_VR_Hello_World/obj/Debug/
