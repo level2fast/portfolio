@@ -1,0 +1,12 @@
+[submodule "millimeter-wave-radar-system"]
+	path = millimeter-wave-radar-system
+	url = https://github.com/level2fast/millimeter-wave-radar-system.git
+[submodule "pynq-radio"]
+	path = pynq-radio
+	url = https://github.com/level2fast/pynq-radio.git
+[submodule "uavsarlite-demo"]
+	path = uavsarlite-demo
+	url = https://github.com/level2fast/uavsarlite-demo
+[submodule "cuda"]
+	path = cuda
+	url = https://github.com/level2fast/cuda.git
