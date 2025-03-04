@@ -7,7 +7,7 @@ I'm a software/signal processing engineer specializing in C++, MATLAB, Flutter, 
 
 ## 📂 Projects
 
-### 1️⃣ **[People Detection Radar](#)**
+### 1️⃣ **[People Detection Radar](https://github.com/level2fast/millimeter-wave-radar-system)**
 **Description**: This project consists of a a simulation of an FMCW Millimeter wave radar system used to demonstrate that the system can detect the range and velocity of a person.
 - **Tech Stack**: MATLAB, python, Flutter
 - **Key Features**: 
@@ -18,19 +18,19 @@ I'm a software/signal processing engineer specializing in C++, MATLAB, Flutter, 
   - Cloud storage of RADAR data
   - Android App to visualize Radar Data in near real time
 
-### 2️⃣ **[uavsarlite](#)**
+### 2️⃣ **[uavsarlite](https://github.com/level2fast/uavsarlite-demo)**
 **Description**: I'm working on building a UAV that can carry an imaging radar. This project involves system design, MATLAB simulation, and software design. 
 - **Tech Stack**: MATLAB, C++, Flutter
 - **Key Features**: 
   - SAR Data Processor
 
-### 3️⃣ **[sobel-edge-detector](#)**
+### 3️⃣ **[sobel-edge-detector](https://github.com/level2fast/cuda/tree/main/sobel-edge-detector/code)**
 **Description**: This project demonstrates the use of the Sobel operator to perform edge detection in images.
 - **Tech Stack**: C++, CUDA
 - **Key Features**:
   - Edge Detection of an image
 
-### 4️⃣ **[pynq-radio](#)**
+### 4️⃣ **[pynq-radio](https://github.com/level2fast/pynq-radio)**
 **Description**: An experiment performed using an STL-SDR, GNURADIO, and signal processing. This system captures raw i/q data from over the air, fm demodulates it, and plays back the music.
 - **Tech Stack**: python, MATLAB, bash
 - **Key Features**:
@@ -38,7 +38,7 @@ I'm a software/signal processing engineer specializing in C++, MATLAB, Flutter, 
   - UDP streaming of data
   - FM Demodulation and playback
 
-### 5️⃣ **[ngs-studio](#)**
+### 5️⃣ **[ngs-studio](https://github.com/level2fast/NGS_Studio)**
 **Description**: A sample application for small businesses designed, built, and tested using Xamarin forms. The app gives the business owner the ability to login, store client information, store worker information, track client visits, and market information to clients.
 - **Tech Stack**: C#, Xamarin
 - **Key Features**:
