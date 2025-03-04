@@ -10,3 +10,6 @@
 [submodule "cuda"]
 	path = cuda
 	url = https://github.com/level2fast/cuda.git
+[submodule "NGS_Studio"]
+	path = NGS_Studio
+	url = https://github.com/level2fast/NGS_Studio.git
