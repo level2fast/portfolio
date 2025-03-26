@@ -3,7 +3,7 @@
 Welcome to my software portfolio! This repository showcases projects that demonstrate my expertise in software development, problem-solving, and coding skills.
 
 ## 😁 About Me
-I'm a software/signal processing engineer specializing in C++, MATLAB, Flutter, and SAR signal processing. I enjoy tackling software architectural design, extracting information from i/q data, and building mobile apps. I'm a laid back guy who enjoys coming up with new ideas and watching them come to life. It's my definition of fun 😀.
+I'm a software/signal processing engineer specializing in C++, MATLAB, Flutter, and SAR signal processing. I enjoy tackling software architectural design problems, extracting information from i/q data, learning about image signal processing, and building mobile apps. I'm a laid back guy who enjoys coming up with new ideas and watching them come to life. It's my definition of fun 😀.
 
 ## 📂 Projects
 
