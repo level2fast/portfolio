@@ -8,7 +8,7 @@ I'm a software/signal processing engineer specializing in C++, MATLAB, Flutter, 
 ## 📂 Projects
 
 ### 1️⃣ **[People Detection Radar](https://github.com/level2fast/millimeter-wave-radar-system)**
-**Description**: This project consists of a a simulation of an FMCW Millimeter wave radar system used to demonstrate that the system can detect the range and velocity of a person.
+**Description**: This project consists of the simulation of an FMCW Millimeter wave radar system used to demonstrate that the system can detect the range and velocity of a person.
 - **Tech Stack**: MATLAB, python, Flutter
 - **Key Features**: 
   - FMCW Radar Simulation
