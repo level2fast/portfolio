@@ -52,7 +52,7 @@ I'm a software/signal processing engineer specializing in C++, MATLAB, Flutter, 
 - **Programming Languages**: C++, Python, MATLAB, C#, Dart, bash
 - **Technologies**: Flutter SDK, Git, CI/CD, Docker, Kubernetes, GTEST, pytest 
 - **Specializations**: Software Architecture, MVVM Architecture, Mobile App Development, Embedded Linux, RTOS, Signal Processing, SAR Data Processing
-- **Experience with**: OpenCV, Kalman Filters, RABBITMQ, Remote Procedure Call libs, Public Key Infrastructure, Assymetric Cryptography, Symmetric Cryptography, SSL, Unity, Xilinx SoC's, Secure Boot, High Level Synthesis, CORBA, Xamarin, WPF, Image Signal Processing 
+- **Experience with**: CUDA, OpenCV, Kalman Filters, RABBITMQ, Remote Procedure Call libs, Public Key Infrastructure, Assymetric Cryptography, Symmetric Cryptography, SSL, Unity, Xilinx SoC's, Secure Boot, High Level Synthesis, CORBA, Xamarin, WPF, Image Signal Processing 
 
 ## 📬 Contact
 - **GitHub**: [level2fast](https://github.com/level2fast)
