@@ -24,7 +24,7 @@ I'm a software/signal processing engineer specializing in C++, MATLAB, Flutter, 
 - **Key Features**: 
   - SAR Data Processor
 
-### 3️⃣ **[sobel-edge-detector](https://github.com/level2fast/cuda/tree/main/sobel-edge-detector/code)**
+### 3️⃣ **[sobel-edge-detector](https://github.com/level2fast/cuda/tree/main/sobel-edge-detector)**
 **Description**: This project demonstrates the use of the Sobel operator to perform edge detection in images.
 - **Tech Stack**: C++, CUDA
 - **Key Features**:
